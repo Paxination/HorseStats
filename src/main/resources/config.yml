@@ -12,10 +12,10 @@
 #Do not modify anything in this section. These are used by HorseStats
 #internally, and if altered, may cause false warning messages.
 information:
-    configVersion: 3.1
+    configVersion: 3.1.1
     #If No Speed Mode is on, you probably are using a different CraftBukkit build.
     #This is the build of CB that this HorseStats build is made to run on.
-    HorseStatsIsRunning: craftbukkit-1.7.9-R0.2
+    HorseStatsIsRunning: craftbukkit-1.7.10-R0.1
 #==============================================================
 #  - Configuration Options -
 options:
